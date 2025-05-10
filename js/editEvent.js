@@ -2,6 +2,7 @@
  * Edit Event
  *****/
 
+
 // Function to fetch event details for editing
 function editMyPlanEvent(eventKey) {
   // Fetch event data from the database based on eventKey
