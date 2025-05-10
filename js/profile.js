@@ -2,6 +2,7 @@
  * Profile Logic
  *****/
 
+
 // Function to update the medal emoji and text based on volunteer hours
 function updateMedalEmoji(hours) {
   const medalElement = document.getElementById('medalEmoji'); // Get the medal emoji element
