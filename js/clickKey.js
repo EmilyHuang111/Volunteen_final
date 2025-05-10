@@ -2,6 +2,7 @@
  Modal Outside Click and Escape Key
  *****/
 
+
 // Handle clicks outside of the modal to close it
 window.onclick = function(event) {
   // Get references to all the modal elements
