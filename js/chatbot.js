@@ -1,5 +1,6 @@
 
 // Function to fetch all data for the chatbot response
+
 async function fetchAllDataForChat() {
   let eventsStr = "";
   let postsStr = "";
