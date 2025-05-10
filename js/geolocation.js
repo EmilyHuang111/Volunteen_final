@@ -3,6 +3,7 @@
  *****/
 
 // Function to get the user's location using the browser's geolocation API
+
 function getUserLocation() {
   return new Promise((resolve) => {
     // Check if geolocation is supported by the browser
