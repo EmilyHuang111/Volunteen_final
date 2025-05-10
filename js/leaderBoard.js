@@ -3,6 +3,7 @@
  *****/
 
 // Function to display the leaderboard section and load the leaderboard data
+
 function showLeaderboard() {
   hideAllSections(); // Hide all other sections
   document.getElementById('leaderboardSection').classList.remove('hidden'); // Show the leaderboard section
