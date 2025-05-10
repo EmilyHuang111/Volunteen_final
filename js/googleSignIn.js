@@ -1,5 +1,6 @@
 
 /***** Initialize Google Auth Provider *****/
+
 const googleProvider = new firebase.auth.GoogleAuthProvider();
 
 /**** Keep user logged in after refresh ****/
