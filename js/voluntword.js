@@ -1,6 +1,7 @@
 /*****
  * Voluntword Game Logic
  *****/
+
 // Global variables for the Voluntword game
 let todayWord = ""; // The word for today (5-letter word)
 let currentRow = 0; // The current row where the player is typing
