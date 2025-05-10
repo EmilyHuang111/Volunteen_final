@@ -1,4 +1,5 @@
 // Helper function to load an HTML partial into a target element
+
 function loadPartial(url, targetId) {
     fetch(url)
       .then(response => {
