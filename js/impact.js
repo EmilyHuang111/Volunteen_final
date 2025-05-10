@@ -3,6 +3,7 @@
  *****/
 
 // Function to show the impact section and display the impact results
+
 function showImpact() {
   hideAllSections(); // Hide all other sections
   const impact = document.getElementById('impactSection');
