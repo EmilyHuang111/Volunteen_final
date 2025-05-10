@@ -1,4 +1,5 @@
 // Show challenges section and load the challenges
+
 function showChallenges() {
   hideAllSections(); // Hide all other sections on the page
   document.getElementById('challengesSection').classList.remove('hidden'); // Display challenges section
