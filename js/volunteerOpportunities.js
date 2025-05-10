@@ -1,6 +1,7 @@
 /*****
  * Load & Render Volunteer Opportunities
  *****/
+
 let allEvents = []; // Array to store all the events loaded from the database
 let userLocation = null; // Variable to store the user's current location
 let joinEventKey = null; // For handling the event join process
