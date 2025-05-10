@@ -1,6 +1,7 @@
 /*****
  * Load User Profile Data
  *****/
+
 function loadUserProfile() {
   const user = auth.currentUser; // Get the currently logged-in user.
   if (!user) return; // If no user is logged in, exit the function.
