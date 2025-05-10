@@ -2,6 +2,7 @@
  * Delete Event
  *****/
 
+
 // Function to delete an event created by the logged-in user
 function deleteMyPlanEvent(eventKey) {
   const user = auth.currentUser;  // Get the current logged-in user
