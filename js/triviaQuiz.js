@@ -2,6 +2,7 @@
 // Volunteer Impact Trivia Quiz - Single Card Navigation with Submit Button and Streaks
 // ================================
 
+
 // Global array to store trivia question objects
 let triviaQuestions = [];
 // Global index of the currently displayed question
