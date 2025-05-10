@@ -2,6 +2,7 @@
 /*****
  * 6. Join Event
  *****/
+
 // Updated confirmJoinEvent now fetches user profile from the database
 function openJoinEventModal(eventKey) {
     const user = auth.currentUser;
