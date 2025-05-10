@@ -3,6 +3,7 @@
  *****/
 
 // Function to show the fundraising section and hide all other sections.
+
 function showFundraising() {
   hideAllSections(); // This hides all other sections.
   
