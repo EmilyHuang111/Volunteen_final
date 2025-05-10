@@ -2,6 +2,7 @@
  * My Plans (Organized & Joined Events)
  *****/
 
+
 // Function to load the user's organized and joined events
 function loadMyPlans() {
   const user = auth.currentUser; // Get the current logged-in user
