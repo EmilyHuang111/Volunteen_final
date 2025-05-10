@@ -1,6 +1,7 @@
 /*****
  * Get Directions to an Event
  *****/
+
 function getDirections(eventKey) {
   // Find the event by its key from the global allEvents array.
   const event = allEvents.find(ev => ev._key === eventKey);
